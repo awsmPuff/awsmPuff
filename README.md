@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @awsmPuff
 - 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning API
+- 🌱 I’m currently learning REACT
 - 💞️ I’m looking to collaborate on all kinds of frontEnd development projects and work in this field!
 - 📫 Contact me by wxie@tcd.ie :)
 
